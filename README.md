@@ -2,7 +2,7 @@
 
 #Here is my final project website link using azure :
 
-#Here is my github website link:https://github.com/TARAKESWARI11/Save_Poor.git
+#Here is my github website link:https://tarakeswari11.github.io/Save_Poor/
 
 
 
